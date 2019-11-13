@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AviP_Runner
+comment0.text=\n\ This\ is\ a\ simple\ runner\ for\ the\ AviP\ class.\n\ @author\ Josh\ Koh,\ Sujal\ Nahata,\ Tariq\ Rahman\n\ @version\ 11/12/2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Create\ a\ Magpie,\ give\ it\ user\ input,\ and\ print\ its\ replies.\n
+numComments=2
